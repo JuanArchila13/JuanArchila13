@@ -21,7 +21,7 @@ Systems and Computer Engineer with two (2) years of experience, passionate about
 ### 📌 Featured Projects
 > Replace these with your real repositories
 
-- 🔹 [Project One](https://github.com/JuanArchila13/project-one)  
+- 🔹 [Algoritmo de ETA](https://github.com/JuanArchila13/ETA_ALGORITHM)  
   Short description of what this project does.
 
 - 🔹 [Project Two](https://github.com/JuanArchila13/project-two)  
