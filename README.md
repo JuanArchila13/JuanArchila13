@@ -16,33 +16,10 @@ Systems and Computer Engineer with two (2) years of experience, passionate about
 - Architecture: Microservices, Event-Driven Architecture (EDA), Microfrontends, REST APIs
 - Testing & QA: Unit Testing (JUnit, Jest, Pytest, PHPUnit), Integration Testing (Postman), End-to-End Testing (Selenium), Performance Testing (Apache JMeter)
 
----
-
-### 📌 Featured Projects
-
-- 🔹 [Algoritmo de ETA](https://github.com/JuanArchila13/ETA_ALGORITHM)  
-  Geospatial ETA engine for public transit buses — computes estimated arrival times at each stop using real GPS route geometry, haversine distances, and per-segment speed profiles, backed by a MySQL relational schema.
-
-- 🔹 [Project Two](https://github.com/JuanArchila13/project-two)  
-  Short description of what this project does.
-
-- 🔹 [Project Three](https://github.com/JuanArchila13/project-three)  
-  Short description of what this project does.
-
----
-
-### 📈 GitHub Stats
-
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanArchila13&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanArchila13&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 Connect with Me
 
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 📧 Email: [Add your email or contact preference]
-- 🌎 Portfolio: [Add your website if you have one]
+- 💼 LinkedIn: [www.linkedin.com/in/juan-pablo-archila-amaya]
+- 📧 Email: [juanarchila2003@gmail.com]
 
 ---
 
