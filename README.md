@@ -19,10 +19,9 @@ Systems and Computer Engineer with two (2) years of experience, passionate about
 ---
 
 ### 📌 Featured Projects
-> Replace these with your real repositories
 
 - 🔹 [Algoritmo de ETA](https://github.com/JuanArchila13/ETA_ALGORITHM)  
-  Short description of what this project does.
+  Geospatial ETA engine for public transit buses — computes estimated arrival times at each stop using real GPS route geometry, haversine distances, and per-segment speed profiles, backed by a MySQL relational schema.
 
 - 🔹 [Project Two](https://github.com/JuanArchila13/project-two)  
   Short description of what this project does.
