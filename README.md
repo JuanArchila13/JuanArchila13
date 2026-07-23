@@ -8,8 +8,6 @@ Systems and Computer Engineer with two (2) years of experience, passionate about
 
 ### 🛠️ Competencias Técnicas
 
-He reorganizado esta sección para que sea más visual y atractiva en GitHub: iconos, badges y una distribución en columnas para facilitar la lectura.
-
 <table>
   <tr>
     <td valign="top" width="33%">
