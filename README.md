@@ -6,20 +6,6 @@ Systems and Computer Engineer with two (2) years of experience, passionate about
 
 ---
 
-### 📊 GitHub Contributions
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JuanArchila13&theme=dark&hide_border=true)](https://github.com/JuanArchila13)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanArchila13&theme=dark&hide_border=true&show_icons=true&count_private=true)](https://github.com/JuanArchila13)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanArchila13&theme=dark&hide_border=true&layout=compact)](https://github.com/JuanArchila13)
-
-</div>
-
----
-
 ### 🛠️ Competencias Técnicas
 
 <table>
@@ -66,6 +52,20 @@ Systems and Computer Engineer with two (2) years of experience, passionate about
 - 🧪 Unit Testing (JUnit, Jest, Pytest, PHPUnit)
 - 🔁 Integración (Postman) • E2E (Selenium)
 - ⚡ Performance (Apache JMeter)
+
+---
+
+### 📊 GitHub Contributions
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuanArchila13&theme=dark&hide_border=true)](https://github.com/JuanArchila13)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanArchila13&theme=dark&hide_border=true&show_icons=true&count_private=true)](https://github.com/JuanArchila13)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanArchila13&theme=dark&hide_border=true&layout=compact)](https://github.com/JuanArchila13)
+
+</div>
 
 ---
 
