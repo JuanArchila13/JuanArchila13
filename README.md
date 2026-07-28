@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm a Software Engineer with 2 years of experience specializing in Software Development, Artificial Intelligence, research and Cloud Technologies. Passionate about designing scalable systems, building intelligent applications, and developing innovative solutions that create measurable business impact.
+I'm a Software Engineer with over 2 years of experience specializing in Software Development, Artificial Intelligence, research and Cloud Technologies. Passionate about designing scalable systems, building intelligent applications, and developing innovative solutions that create measurable business impact.
 
 ---
 
