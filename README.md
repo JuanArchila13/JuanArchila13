@@ -1,18 +1,21 @@
 ## Hi there, I'm Juan Pablo Archila Amaya 👋
+## ¡Hola! Soy Juan Pablo Archila Amaya 👋
 
-### 🚀 About Me
+### 🚀 About Me | 🚀 Sobre mí
 
-I'm a Software Engineer with over 2 years of experience specializing in Software Development, Artificial Intelligence, research and Cloud Technologies. Passionate about designing scalable systems, building intelligent applications, and developing innovative solutions that create measurable business impact.
+I'm a Software Engineer with over 2 years of experience specializing in Software Development, Artificial Intelligence, research and Cloud Technologies. Passionate about designing scalable systems, building innovative solutions, and continuously learning new technologies.
+
+Soy Ingeniero de Software con más de 2 años de experiencia especializándome en Desarrollo de Software, Inteligencia Artificial, investigación y Tecnologías en la Nube. Apasionado por diseñar sistemas escalables, construir soluciones innovadoras y aprender continuamente nuevas tecnologías.
 
 ---
 
-### 🛠️ Competencias Técnicas
+### 🛠️ Technical Skills | 🛠️ Competencias Técnicas
 
 <table>
   <tr>
     <td valign="top" width="33%">
 
-**Lenguajes & Frameworks**
+**Languages & Frameworks | Lenguajes & Frameworks**
 
 - 🟩 Java (Spring Boot)
 - 🟥 C# (.NET)
@@ -25,32 +28,32 @@ I'm a Software Engineer with over 2 years of experience specializing in Software
     </td>
     <td valign="top" width="33%">
 
-**AI & Ciencia de Datos**
+**AI & Data Science | IA & Ciencia de Datos**
 
-- 🤖 Modelos locales (LLMs) & RAG
+- 🤖 Local Models (LLMs) & RAG | Modelos locales (LLMs) & RAG
 - 🔎 Embeddings • Vector DBs (ChromaDB)
 - 🧠 Prompt Engineering
-- 📷 OpenCV • Procesamiento de imágenes
+- 📷 OpenCV • Image Processing | Procesamiento de imágenes
 - 📊 Clustering (K-Means)
 
     </td>
     <td valign="top" width="33%">
 
-**Infraestructura & Bases de Datos**
+**Infrastructure & Databases | Infraestructura & Bases de Datos**
 
 - ☁️ Docker • AWS Lightsail • GitHub Actions (CI/CD)
 - 🗄️ MySQL • PostgreSQL • MongoDB • Firebase Firestore
-- 🔗 Microservicios • EDA • Microfrontends • REST APIs
+- 🔗 Microservices • EDA • Microfrontends • REST APIs | Microservicios • EDA • Microfrontends • REST APIs
 
     </td>
   </tr>
 </table>
 
-**Herramientas & QA**
+**Tools & QA | Herramientas & QA**
 
 - 🔧 Git • GitHub • Docker
 - 🧪 Unit Testing (JUnit, Jest, Pytest, PHPUnit)
-- 🔁 Integración (Postman) • E2E (Selenium)
+- 🔁 Integration (Postman) • E2E (Selenium) | Integración (Postman) • E2E (Selenium)
 - ⚡ Performance (Apache JMeter)
 
 ---
@@ -69,7 +72,7 @@ I'm a Software Engineer with over 2 years of experience specializing in Software
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me | 🌐 Conéctate conmigo
 
 - 💼 LinkedIn: [juan-pablo-archila-amaya](https://www.linkedin.com/in/juan-pablo-archila-amaya)
 - 📧 Email: [juanarchila2003@gmail.com](mailto:juanarchila2003@gmail.com)
@@ -77,4 +80,4 @@ I'm a Software Engineer with over 2 years of experience specializing in Software
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! | ⭐ ¡Gracias por visitar mi perfil!
